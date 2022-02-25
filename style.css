@@ -1,0 +1,40 @@
+/* This is how to add a comment */
+
+h1 {
+    color:rgb(6, 39, 39);
+    font-size: 100px;
+}
+
+/* This si how you target an element in html */
+body {
+    background-color:rgb(135, 187, 189)
+}
+
+.jimmy {
+    color:rgb(6, 39, 39)
+}
+
+.bbuildings {
+    width: 40%;
+}
+
+#navbar {
+    background-color: rgb(101, 117, 130);
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#navbar a {
+    color:rgb(6, 39, 39);
+    text-decoration: none;
+    font-family: 
+}
+
+#navbar a:hover {
+    color:blue
+}
+.finance {
+    width: 60%;
+}
